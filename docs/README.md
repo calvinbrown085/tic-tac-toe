@@ -4,7 +4,7 @@ This project is a Tic-Tac-Toe game implemented in Go. It provides the foundation
 
 ## Key Files
 
-*   **`go.mod`**: This file defines the Go module path (`calvinbrown085/tic-tac-toe`) and specifies the minimum Go version required for the project (`1.22.5`). It is also used by the Go toolchain to manage project dependencies.
+*   **`go.mod`**: This file defines the Go module path (`calvinbrown085/tic-tac-toe`) and specifies the minimum Go version required for the project (`1.22.5`). It is used by the Go toolchain to manage project dependencies and identify the module.
 
 ## How to Run
 
