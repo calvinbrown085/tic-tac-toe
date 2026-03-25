@@ -6,7 +6,7 @@ title: "tic-tac-toe Docs"
 
 Documentation for calvinbrown085/tic-tac-toe
 
-- [View Documentation](README.md)
+- [View Documentation](OVERVIEW)
 
 ---
 *Docs kept up to date automatically by [ByteChef](https://bytechef.app)*
